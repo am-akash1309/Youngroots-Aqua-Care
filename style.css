@@ -140,3 +140,9 @@ body {
   background-color: #3586ff;
   border-radius: 12px;
 }
+
+.sidenav{
+  background-color: #3586ff;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
